@@ -16,6 +16,7 @@
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
     <class path="src" />
+    here you need rename class path like there
     <class path="..\..\AdamAtomic-flixel-8989e50" />
   </classpaths>
   <!-- Build options -->
