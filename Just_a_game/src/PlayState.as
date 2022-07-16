@@ -1,4 +1,5 @@
 /* UPLOAD GAME ON NEWGROUNDS.COM !!! */
+/* DELETED ON NEWGROUNDS.COM LMAO */
 package 
 {
 	import org.flixel.*;
